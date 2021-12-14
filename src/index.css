@@ -17,6 +17,7 @@ body{
 }
 .App{
   display: flex;
+  flex-direction: column;
   min-height: 100vh;
   align-items: center;
   justify-content: center;
@@ -72,4 +73,7 @@ button:hover{
 }
 .digits button:last-child{
   background-color: var(--success);
+}
+.footer{
+  margin-top: 10px;
 }
