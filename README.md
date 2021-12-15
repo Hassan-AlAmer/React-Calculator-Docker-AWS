@@ -32,3 +32,27 @@ You are a DevOps Engineer. The management has asked you to deploy a calculator a
 - Submission of your GitHub repository link is mandatory. In order to track your task, you need to share the link of the repository in the document.
 
 - The step-by-step process involved in completing this task should be documented.
+
+## 🔗 Links
+[**My Project by use AWS S3**](http://react-calculator-docker-aws.s3-website.eu-west-2.amazonaws.com/)
+
+[**My Project by use Cloudfront for S3**](http://d273efzkez4pt3.cloudfront.net/)
+
+[**My Project by use AWS EC2**](http://ec2-3-10-56-144.eu-west-2.compute.amazonaws.com/)
+
+[**My Project by use Cloudfront for EC2**](https://d31k1qec4wzt6k.cloudfront.net/)
+
+## Project Screenshot:
+![react-calculator-docker-aws](https://user-images.githubusercontent.com/92730894/146209669-8be7b177-e5e2-4d26-a7e5-1294d9eb6f30.png)
+
+## Related
+
+Here are some related helpful reference:
+
+-[Build a CALCULATOR APP in REACT JS](https://www.youtube.com/watch?v=oiX-6Y2oGjI)
+
+-[Deploying a React app to S3](https://www.newline.co/fullstack-react/articles/deploying-a-react-app-to-s3/)
+
+-[Deploy a Docker App to AWS using Elastic Container Service (ECS)](https://www.youtube.com/watch?v=zs3tyVgiBQQ)
+
+-[CloudFront distribution for Amazon EC2](https://aws.amazon.com/cloudfront/getting-started/EC2/)
